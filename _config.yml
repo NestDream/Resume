@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Li Guo"
-resume_title:                   "CS Junior at <a href=\"http://nankai.en.school.cucas.cn/\" style=\"text-decoration : none\ ">NKU</a>"
+resume_title:                   "CS Junior at <a href=\"http://nankai.en.school.cucas.cn/\" style=\"text-decoration : none\">NKU</a>"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "gl_1997@outlook.com"
