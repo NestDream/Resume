@@ -20,7 +20,7 @@ resume_contact_email:           "gl_1997@outlook.com"
 resume_contact_telephone:       "(86)176-9579-6698"
 resume_contact_address:         "Tianjin, China"
 
-resume_header_contact_info:     "Tianjin, China | (+86) 176-9579-6698 | <a href=\"mailto:gl_1997@outlook.com\">gl_1997@outlook.com</a>"
+resume_header_contact_info:     "Tianjin, China | (+86) 176-9579-6698 | <a href=\"mailto:gl_1997@outlook.com\" style=\"text-decoration:none\">gl_1997@outlook.com</a>"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Li Guo(郭立) is a Junior student at Nankai University, majoring in software engineering. He is interested in research about deep learning and computer vision.</p>"
